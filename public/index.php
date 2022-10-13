@@ -1,5 +1,6 @@
 <?php
 require '../vendor/autoload.php';
+
 // 類別先import進來
 use Demo\Hello\Lara;
 use Demo\Hello\Someone;
